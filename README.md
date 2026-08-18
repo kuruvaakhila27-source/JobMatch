@@ -1,4 +1,4 @@
-# 💼 JobMatch AI
+# 💼 JobMatch
 
 AI-powered job search and resume matching platform that helps users find relevant live jobs, compare skills, identify skill gaps, and save job opportunities.
 
@@ -8,7 +8,7 @@ AI-powered job search and resume matching platform that helps users find relevan
 - 🌐 **Live Job Search** — Search real job listings by role and location.
 - 🎯 **Smart Job Matching** — Compare resume skills with job requirements and generate a match score.
 - 🔎 **Job Filters** — Filter jobs by location, minimum match percentage, and company.
-- 📌 **Save Jobs** — Save interesting jobs for later.
+- 📌 **Save Jobs** — Save interesting job opportunities for later.
 - 🗑️ **Remove Saved Jobs** — Remove jobs from your saved list.
 - 🚀 **Apply / View Job** — Open the original job listing.
 - 📊 **Dashboard** — View live jobs, strong matches, average match score, and saved jobs.
@@ -29,7 +29,7 @@ AI-powered job search and resume matching platform that helps users find relevan
 ## 📂 Project Structure
 
 ```text
-JobMatch-AI/
+JobMatch/
 │
 ├── app.py
 ├── database.py
